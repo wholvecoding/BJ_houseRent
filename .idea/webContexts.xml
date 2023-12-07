@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/house-master/WebContent/WEB-INF/jsp/admin/login1.jsp" value="file://$PROJECT_DIR$/house-master/WebContent/WEB-INF/jsp/admin" />
+        <entry key="file://$PROJECT_DIR$/house-master/WebContent/WEB-INF/jsp/admin/main1.jsp" value="file://$PROJECT_DIR$/house-master/WebContent/WEB-INF/jsp/admin" />
+        <entry key="file://$PROJECT_DIR$/house-master/WebContent/WEB-INF/jsp/login.jsp" value="file://$PROJECT_DIR$/house-master/WebContent/WEB-INF/jsp" />
+        <entry key="file://$PROJECT_DIR$/house-master/WebContent/WEB-INF/jsp/zuke/main.jsp" value="file://$PROJECT_DIR$/house-master/WebContent/WEB-INF/jsp/zuke" />
+        <entry key="file://$PROJECT_DIR$/house-master/WebContent/WEB-INF/jsp/zuke/myapplyout.jsp" value="file://$PROJECT_DIR$/house-master/WebContent/WEB-INF/jsp/zuke" />
+        <entry key="file://$PROJECT_DIR$/house-master/WebContent/login.jsp" value="file://$PROJECT_DIR$/house-master/WebContent" />
+      </map>
+    </option>
+  </component>
+</project>

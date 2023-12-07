@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/house-master/src/dao/ApplyMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/house-master/src/dao/ApplyoutMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/house-master/src/dao/ScheduleMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/house-master/src/dao/TopaidMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/house-master/src/dao/UserMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/house-master/src/dao/UserlistMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/house-master/src/dao/WrongMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/house-master/src/dao/ZulistMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/house-master/zu.sql" dialect="MySQL" />
+  </component>
+</project>
