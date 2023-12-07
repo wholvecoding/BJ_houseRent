@@ -68,7 +68,7 @@
             },
             errorElement: "span",
             errorPlacement: function (error, element) {             //element: 页面重的input error:message中设置的
-                error.addClass("invalid-feedback");
+                error.addClass("ivalid-feedback");
                 error.insertAfter(element);                        //在页面对应的元素后面紧挨着插入错误消息
 
             },
