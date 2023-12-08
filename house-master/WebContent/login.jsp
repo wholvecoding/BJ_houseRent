@@ -41,15 +41,15 @@
 			<button type="submit" id="login-button">登录</button>
 
  		</form>
-		<form class="form" id="registerform" action="./register.action" method="post">
+		<form class="form" id="registerform" action="./logincheck.action" method="post">
 			<li><a href="${pageContext.request.contextPath}/./toregister.action"><i class="icon-font">&#xe008;</i>注册账户</a></li>
-
-			<button type="submit "  id="register_botton">注册</button>
 		</form>
+
+
 	</div>
 	
 	<ul class="bg-bubbles">
-		<li></li>
+
 		<li></li>
 		<li></li>
 		<li></li>
